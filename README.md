@@ -6,7 +6,7 @@
 
 - 🎓 **Education**: Masters degree in Biomedical Engineering from Graz, University of Technology
 - 💼 **Working**: Senior Machine Learning Engineer at Syndena
-- 🚀 **Languages & Tools**: Python, TensorFlow, PyTorch, Keras, OpenCV, scikit-learn, Jupyter, Docker.
+- 🚀 **Languages & Tools**: Python, TensorFlow, PyTorch, Docker.
 - 📚 **Research Interests**: Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning.
 - 💬 **Ping me about:** Natural language processing, Imaging, development, Python
 - ⚡️ **Fun fact**: I'm a huge fan of Harry Potter, RPGs (Cyberpunk 2077, Baldurs Gate 3) and Marvel Comics.
