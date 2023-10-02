@@ -10,6 +10,7 @@
 - 📚 **Research Interests**: Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning.
 - 💬 **Ping me about:** Natural language processing, Imaging, development, Python
 - ⚡️ **Fun fact**: I'm a huge fan of Harry Potter, RPGs (Cyberpunk 2077, Baldurs Gate 3) and Marvel Comics.
+- 🐕‍🦺 **Raising** a brown English labrador retriver named Merlin. 
 
 ## 📫 Connect with me:
 
